@@ -1,4 +1,4 @@
-// Approach 1: Brute-force Linear Scan (Time: O(n))
+// Approach 2: Brute-force Linear Scan (Time: O(n))
 
 import java.util.Scanner;
 
