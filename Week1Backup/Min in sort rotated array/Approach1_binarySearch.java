@@ -1,4 +1,4 @@
-// Approach 2: Binary Search (Efficient for Sorted Rotated Arrays)
+// Approach 1: Binary Search (Efficient for Sorted Rotated Arrays)
 // Time Complexity: O(log n)
 
 public class Approach2_BinarySearch {
